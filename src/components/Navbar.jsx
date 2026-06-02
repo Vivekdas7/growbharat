@@ -28,7 +28,7 @@ const Navbar = ({ theme, setTheme }) => {
         <img
           src={theme === "dark" ? assets.logo_dark : assets.logo}
           alt="logo"
-          className="w-32 sm:w-40 relative z-50"
+          className="w-17 sm:w-40 relative z-50"
         />
 
         {/* Desktop-Only Navigation Links */}
