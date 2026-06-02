@@ -86,7 +86,7 @@ const Footer = ({ theme }) => {
       transition={{ duration: 0.5, delay: 0.4}}
       viewport={{once: true}}
       className="pb-6 text-sm text-gray-500 flex justify-center sm:justify-between gap-4 flex-wrap">
-        <p>Copyright 2025 © agency.ai - All Right Reserved.</p>
+        <p>Copyright 2025 © growbharat - All Right Reserved.</p>
         <p>
           <a href="https://amdadislam.netlify.app/">Developed By Vivek Das</a>
         </p>
